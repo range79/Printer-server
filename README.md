@@ -38,9 +38,8 @@ bilgisayara baglayarak kablosuz yapmakdir
    ###### NOT Eger windows kullaniyorsaniz alttaki gibi yuklemeniz gerekli
    ```shell
    gradlew.bat clean build
+
 ```
-
-
 3. **Veritabanını Ayarlayın**:  
    MySQL üzerinde bir veritabanı oluşturun ve `src/main/resources/application.yaml` dosyasını düzenleyin:
    ```yaml
