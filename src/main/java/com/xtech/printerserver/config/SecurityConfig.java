@@ -1,4 +1,4 @@
-package com.xtech.printerserver.util;
+package com.xtech.printerserver.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
