@@ -78,7 +78,7 @@ Printer-server/
 ├── backend/                 # Spring Boot application
 │   ├── src/
 │   │   └── main/java/com/xtech/printerserver/
-│   │       ├── file/        # File management modules
+│   │       │   │                   
 │   │       │   ├── controller/
 │   │       │   ├── service/
 │   │       │   ├── repository/
