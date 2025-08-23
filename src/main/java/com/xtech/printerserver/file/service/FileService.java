@@ -14,6 +14,5 @@ public interface FileService {
     MyFileResponse getFile(Long id);
     void saveFile(MultipartFile file) throws IOException;
     void deleteFile(Long id);
-
-
+    void printFile(Long id);
 }
