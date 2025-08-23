@@ -1,0 +1,7 @@
+/gradlew text eol=lf
+*.bat text eol=crlf
+*.jar binary
+frontend/**/*.js linguist-vendored
+frontend/**/*.css linguist-vendored
+frontend/**/*.html linguist-vendored
+
