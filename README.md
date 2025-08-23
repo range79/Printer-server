@@ -12,6 +12,25 @@
 
 
 A modern file management and printing system built with Spring Boot backend and React frontend. Upload, manage, and print documents with a beautiful, responsive interface.
+---
+
+## Screenshotes
+
+
+---
+## Dark mode frontend Preview
+<img src="images/dark.png" alt="Printer Server Dark Preview" width="400"/>
+
+
+---
+## Light mode frontend Preview
+
+<img src="images/white.png" alt="Printer Server White Preview" width="400"/>
+
+
+
+
+
 
 ## 🚀 Features
 
